@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,700;1,800;1,900&display=swap');
+
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 1400px;
+    margin: auto;
+    font-family: 'Inter';
+}
+
+.head-logo {
+    margin-left: 50px;
+    font-size: 50px;
+    margin-top: -50px;
+}
+
+.head-group {
+    margin-left: 80px;
+    margin-top: -75px;
+    color: #002B64;
+}
+
+.group {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.menu {
+    font-family: 'Inter';
+    margin-left: 1200px;
+    margin-top: -170px;
+    color: #002B64;
+}
+
+.slash {
+    position: relative;
+    margin-left: 1180px;
+    top: -135px;
+}
+
+.Subscribe {
+    font-family: 'Inter';
+    position: relative;
+    margin-left: 1050px;
+    top: -90px;
+    color: #002B64;
+}
+
+.icon {
+    position: relative;
+    margin-left: 970px;
+    top: -40px;
+}
+
+.upedri {
+    margin-left: 50px;
+}
+
+.KÜFFNER {
+    margin-top: 150px;
+    margin-left: 150px;
+}
+
+.mission {
+    font-family: 'Inter';
+    margin-left: 220px;
+    font-size: 30px;
+    color: #002B64;
+}
+
+.logo {
+    margin-left: 650px;
+    margin-top: 50px;
+}
+
+.Arrow {
+    position: relative;
+    margin-left: 570px;
+    top: 150px;
+}
